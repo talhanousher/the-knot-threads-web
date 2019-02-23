@@ -8,18 +8,18 @@ export const DATA = {
             "label": "",
             "price": "2.99",
             "featured": true,
-            "description": "A delectable, semi-sweet New York Style Cheese Cake, with Graham cracker crust and spiced with Indian cardamoms"
+            "description": "a garment for the upper part of the body: such as. a : a cloth garment usually having a collar, sleeves, a front opening, and a tail long enough to be tucked inside trousers or a skirt."
         }
     ],
     cloths: [
         {
             "id": 0,
-            "name": "Weekend Grand Buffet",
+            "name": "Trousers",
             "image": "assets/images/cloth.jpg",
             "label": "New",
             "price": "19.99",
             "featured": true,
-            "description": "Featuring mouthwatering combinations with a choice of five different salads, six enticing appetizers, six main entrees and five choicest desserts. Free flowing bubbly and soft drinks. All for just $19.99 per person "
+            "description": "Describing your brand properly is a necessary skill for building a successful clothing line. Not only does it help clarify what your company is all about, it also shows that the people behind the brand are knowledgeable on what they’re selling and know how to present a great idea. Your brand profile should be included on your website and in press releases. "
         }
     ],
     leaders: [

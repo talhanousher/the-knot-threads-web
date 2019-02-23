@@ -7,6 +7,7 @@ import Home from './HomeComponent';
 import Contact from './ContactComponent';
 import About from './AboutComponent';
 import Header from './HeaderComponent';
+import Footer from './FooterComponent';
 
 class Main extends Component {
     render() {
@@ -28,6 +29,7 @@ class Main extends Component {
                     <Route exact path='/aboutus' component={About} />} />
                     <Redirect to='/home' />
                 </Switch>
+                <Footer></Footer>
             </div>
         )
     }

@@ -25,3 +25,9 @@
 .main-header{
     margin: 0 !important;
 }
+
+.footer{
+    background-color: rgb(255, 233, 126);;
+    margin:0px auto;
+    padding: 20px 0px 20px 0px;
+}
