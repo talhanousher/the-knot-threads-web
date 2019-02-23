@@ -43,7 +43,7 @@ class Header extends Component {
                         <div className="row row-header">
                             <div className="col-12 col-sm-6">
                                 <h3>The Knot Threads</h3>
-                                <p>The Clothing Company</p>
+                                <p>We are providing the finest and prime quality material of formal and informal shirts and Tshirts !</p>
                             </div>
                         </div>
                     </div>

@@ -1,6 +1,8 @@
 import React, { Component } from 'react';
 import { Switch, Route, Redirect } from 'react-router-dom';
 
+import { DATA } from '../Shared/data';
+
 import Home from './HomeComponent';
 import Contact from './ContactComponent';
 import About from './AboutComponent';
@@ -10,7 +12,11 @@ class Main extends Component {
     render() {
         const HomePage = () => {
             return (
-                <Home />
+                <Home
+                    shirt={DATA.shirts[0]}
+                    cloth={DATA.cloths[0]}
+                    leader={DATA.leaders[0]}
+                />
             );
         }
         return (
