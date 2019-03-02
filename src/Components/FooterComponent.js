@@ -18,7 +18,7 @@ function Footer(props) {
                         <address>
                             Gulshan e Maymar , Karachi , Pakistan <br />
                             <i className="fa fa-phone fa-lg"></i>: +92 345 2329916<br />
-                            <i className="fa fa-envelope fa-lg"></i>: <a href="mailto:abdulrehman@gmail.com ">
+                            <i className="fa fa-envelope fa-lg"></i>: <a href="mailto:abdulrehman@gmail.com">
                                 abdulrehman@gmail.com</a>
                         </address>
                     </div>
