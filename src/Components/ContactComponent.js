@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import { Breadcrumb, BreadcrumbItem } from 'reactstrap';
-import {Link} from 'react-router-dom';
+import { Link } from 'react-router-dom';
 
 
 class Contact extends Component {
@@ -24,13 +24,14 @@ class Contact extends Component {
                     <div className="col-12 col-sm-4 offset-sm-1">
                         <h5>Our Address</h5>
                         <address>
-                        Gulshan e Maymar , Karachi , Pakistan<br />
+                            Gulshan e Maymar , Karachi , Pakistan<br />
                             <i className="fa fa-phone"></i>:+92 345 2329916<br />
                             <i className="fa fa-envelope"></i>: <a href="mailto:abdulrehman@gmail.com"> abdulrehman@gmail.com</a>
                         </address>
                     </div>
                     <div className="col-12 col-sm-6 offset-sm-1">
                         <h5>Map of our Location</h5>
+                        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3618.903450261865!2d67.11352021447837!3d24.90127474975427!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3eb33922488f3725%3A0x3bfde63eb356ebc0!2sMillennium+Mall!5e0!3m2!1sen!2s!4v1551517217440" width="600" height="450"></iframe>
                     </div>
                     <div className="col-12 col-sm-11 offset-sm-1">
                         <div className="btn-group" role="group">
